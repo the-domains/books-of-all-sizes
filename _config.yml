@@ -1,0 +1,14 @@
+layout_spectrum: 0.11970198946073651
+typography_spectrum: 0.25806045555509627
+color:
+  brandStrength: 0.7941628952976316
+  lightness: 0.7566044111736119
+  saturation: 0.5685741256456822
+  rhythmicContrast: 0.5793062311131507
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Books of all sizes
