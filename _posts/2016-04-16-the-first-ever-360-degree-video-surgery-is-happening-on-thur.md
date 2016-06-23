@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-22T19:42:28.286Z'
+datePublished: '2016-06-23T17:10:38.915Z'
 sourcePath: >-
   _posts/2016-04-16-the-first-ever-360-degree-video-surgery-is-happening-on-thur.md
 inFeed: true
@@ -19,7 +19,7 @@ keywords:
   - google
 related: []
 author: []
-dateModified: '2016-06-22T19:42:25.167Z'
+dateModified: '2016-06-23T17:10:35.558Z'
 title: The First-Ever 360-Degree Video Surgery Is Happening On Thursday
 app_links:
   - url: >-
@@ -54,7 +54,7 @@ description: >-
   remove the tumor from his bowel, and stitch the tissue back together.
 inLanguage: en
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
