@@ -1,4 +1,3 @@
-layout_spectrum: 0.11970198946073651
 typography_spectrum: 0.25806045555509627
 color:
   brandStrength: 0.7941628952976316
@@ -11,7 +10,10 @@ color:
     - '#F4CB89'
     - '#588C8C'
     - '#011C26'
-name: Books of all sizes
+layout_spectrum: 0.11970198946073651
 author:
   name: wilcockayne
   email: wilcockayne@gmail.com
+logo: null
+name: Books of all sizes
+title: Books for everyone
